@@ -1,0 +1,33 @@
+Git and GitHub
+GIT is a version control system is a tools that to track that helps to track changes in code 
+Git is a Version Control System .It is 
+1. Popular 
+2. Free and open source
+3. Fast and scalable
+4 To track the history of the code.
+5. collaborate with same employees same employees and the track the  work of the same developer.
+
+GitHub
+websites that  allows developers to store and manage their code using git.
+we put our project into the for form of a folder 
+this folder name as repositories.
+change is knows as commit
+.create a new repository apna college-demo
+. make our first commit 
+
+
+Setting up git 
+visual studio code 
+windows (Git bash)
+Mac (Terminal)
+
+ 
+
+Configure git configure
+
+git config --global user.name "My name "
+git config --global user.email "mail "
+
+
+
+root directory 
